@@ -1,3 +1,4 @@
 hello
 my name
 new data added by master
+new future added
